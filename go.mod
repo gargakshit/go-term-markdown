@@ -1,8 +1,9 @@
-module github.com/MichaelMure/go-term-markdown
+module github.com/gargakshit/go-term-markdown
 
 go 1.12
 
 require (
+	github.com/MichaelMure/go-term-markdown v0.1.3
 	github.com/MichaelMure/go-term-text v0.2.9
 	github.com/alecthomas/chroma v0.7.1
 	github.com/eliukblau/pixterm/pkg/ansimage v0.0.0-20191210081756-9fb6cf8c2f75
